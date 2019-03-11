@@ -1,0 +1,18 @@
+{
+	"name": "minimise-code",
+	"title": "Minimise Code",
+	"version": "1.0.0",
+	"description": "Minimise HTML and CSS files",
+	"homepage": "https://github.com/dingdong-io/brackets.beautify.io",
+	"author": "lewisself64 (https://github.com/lewisself64)",
+	"license": "MIT",
+	"categories": "formatting",
+	"keywords": [
+		"minimise",
+		"minimising",
+		"html minimise",
+		"css minimise",
+		"minimise html",
+		"minimise css"
+	]
+}
